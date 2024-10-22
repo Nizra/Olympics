@@ -35,3 +35,9 @@ Original data source: https://www.kaggle.com/datasets/heesoo37/120-years-of-olym
 
 ## Data Model
 ![Data Model Image](Data_Model.jpg)
+
+## Scripts for Project
+1. [Extract raw data using Azure Data Factory json file](copydata_pipeline_support_live.zip)
+1. [Bronze to silver transformation file](Olympics_bronze_to_silver.dbc)
+2. [Silver to gold transformation file and load file](Olympics_silver_to_gold.dbc)
+
