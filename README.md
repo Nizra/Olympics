@@ -32,3 +32,6 @@ https://github.com/Nizra/olympics/blob/47bbd491ed276063ed9ff15a8019ff93c3684e6e/
 https://github.com/Nizra/olympics/blob/47bbd491ed276063ed9ff15a8019ff93c3684e6e/athlete_events.csv.zip
 
 Original data source: https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
+
+## Data Model
+![Data Model Image](Data_Model.jpg)
