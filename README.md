@@ -21,6 +21,7 @@ This end to end data engineering project uses Azure services to extract, clean a
    * Azure Databricks
    * Azure Synapse Analytics
    * Power BI
+   * Azure Key Vault
 
 ## Dataset Used
 120 years of Olympic history: athletes and results
