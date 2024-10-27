@@ -2,12 +2,7 @@
 
 ## Introduction
 
-This end to end data engineering project uses Azure services to extract, clean and analyze data to provide insights into athlete performance, country rankings and event trends.
-- Azure Data Factory: Orchestrates data flow between services.
-- Azure Data Lake Storage Gen2: Stores both raw and transformed data.
-- Azure Databricks: Cleans and transforms data using Apache Spark.
-- Azure Synapse Analytics: Enables creation of a lake database which can be queried using a serverless SQL pool for analysis.
-- Power BI: Creates interactive visualizations and reports.
+This end-to end-data engineering project uses Azure services to extract, clean and analyze data to provide insights into athlete performance, country rankings and event trends. It integrates Azure Data Factory for orchestrating data pipelines, Azure Data Lake Storage Gen 2 as the central data storage, and Azure Databricks for scalable data transformation. Data is then stored and modeled in a lake database within Azure Synapse Analytics for optimized querying. Finally Power BI delivers interactive visualizations of the transformed data.
 
 ## Architecture
 ![Project Architecture](Olympics_Architecture.drawio.jpg)
