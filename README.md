@@ -12,7 +12,7 @@ This end-to end-data engineering project uses Azure services to extract, clean a
 2. Scripting Language - SQL
 3. Azure Cloud Platform
    * Azure Data Factory
-   * Azure Azure Data Lake Storage Gen 2
+   * Azure Data Lake Storage Gen 2
    * Azure Databricks
    * Azure Synapse Analytics
    * Power BI
